@@ -1,0 +1,30 @@
+# .gitignore for Python projects
+
+# byte-compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# distributions
+dist/
+build/
+*.egg
+*.egg-info/
+
+# Pycharm files
+.idea/
+
+# virtual environments
+venv/
+*.venv
+.env
+
+# Spyder project settings
+.spyderproject
+
+# Jupyter Files
+.ipynb_checkpoints/
+
+# DS_Store files
+.DS_Store
